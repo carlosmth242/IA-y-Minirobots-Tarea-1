@@ -65,8 +65,21 @@ Estos sistemas pueden entenderse como ejemplos de sistemas complejos, donde agen
 
 En este sentido, el trabajo descrito en el video evidencia cómo la combinación de biología e inteligencia computacional puede dar lugar a nuevas formas de vida sintética, capaces de exhibir comportamientos autónomos sin necesidad de control directo, lo que abre importantes reflexiones científicas, tecnológicas y éticas sobre el futuro de este tipo de desarrollos.
 
-## 3.
+## 3. Dé una definición propia de inteligencia artificial.
+Podemos definir a la inteligencia artificial como aquella inteligencia creada por el hombre, donde se define la inteligencia como la capacidad de resolver problemas y satisfacer necesidades mediante la lógica en un tiempo prudente para la resolución de estas tareas, todo esto basado en una presentación.
 
-## 4.
+## 4.Haga un resumen sobre Cosmos de NVIDIA
+Primero, es necesario entender qué es un World Model; estas son redes neuronales que entienden el mundo real, sus propiedades físicas y espaciales. De forma similar, Cosmos de Nvidia es un modelo de mundo fundacional que permite que permite aplicar modelos de inteligencia artificial en tareas físicas del mundo real, principalmente vehículos autónomos, robots y agentes inteligentes capaces de analizar videos.
 
-## 5.
+Se puede pensar a Cosmos como una librería que incluye multiples modelos, como por ejemplo Cosmos Predict, Cosmos Transfer y Cosmos Reason. 
+
+Cosmos Predict: Un modelo que predice estados futuros. Por ejemplo, puede generar un video de hasta 30 segundos mostrando qué pasaría si un robot realiza una acción específica en un entorno dinámico.
+
+Cosmos Reason: Un modelo de lenguaje visual (VLM) que permite a los agentes de IA "razonar" sobre lo que ven. Puede identificar objetos, entender patrones espaciales y planificar acciones basadas en la lógica física.
+
+## 5.Investigue sobre los planes del gobierno con respecto a la IA
+Se puede encontrar información al respecto en el documento CONPES 4144, titulado "Política Nacional de Inteligencia Artificial". En el cual se detalla cómo se busca que Colombia se vuelva líder regional en cuanto a la inteligencia artificial, garantizando un uso ético, sostenible e inclusivo. 
+
+Se tienen 6 ejes estratégicos para este plan que se pueden resumir en crear un marco legal y principios éticos para asegurar un uso responsable de la IA, se busca fortalecer la conectividad, los centros de datos y datasets de calidad, se busca fomentar la creación de conocimiento propio y tecnología local, se busca mejorar la empleabilidad en la nueva economía desarollando habilidades digitales, se busca identificar y prevenir los efectos negativos como la desinformación, la pérdida de privacidad o el desplazamiento laboral y finalmente se busca promover que el sector público y privado integren la IA, para mejorar sus servicios y procesos.
+
+Se dio una inversión cercana a los 479 millones de pesos y se tien proyectado ejecutar este plan hasta el 2030. 
